@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "pwinning1991-terrafrom-demos"
+    organization = "pwinning1991-terraform-demos"
 
     workspaces {
       name = "demo-github-actions"
